@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 70F9-E2E0
+
+ Directory of C:\Users\rafim\Desktop\myproject
+
+20-09-2017  01:08    <DIR>          .
+20-09-2017  01:08    <DIR>          ..
+20-09-2017  01:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  67,861,610,496 bytes free
